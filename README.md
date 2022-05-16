@@ -15,11 +15,11 @@ A command line interface program that allows you to create a profile of your tea
 
 ## Installation
 
-Simply run in the browser.
+Clone the repository to your local machine then run with ```npm start```.
 
 ## Usage
 
-Run the program with Node.js and follow the prompts.
+Run the program with ```npm start``` and follow the prompts.
 
 ## License
 
